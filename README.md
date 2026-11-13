@@ -1,16 +1,14 @@
-## Hi there 👋
+<div>
 
-<!--
-**keandrezuhdi/keandrezuhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="Center"> Hello! I'm Azka Keandre Zuhdi </h3>
 
-Here are some ideas to get you started:
+---
+I'm Kean, a student majoring in Informatics at Telkom University. Currently exploring the fundamentals of programming, algorithms, and data structures. I'm soo excited to build my first projects, learn new technologies, and collaborate with fellow developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently pursuing a Bachelor of Informatics @ Telkom University
+- 💻 I’m currently learning on Computational Logic, Fullstack Developer, Mobile Programmer.
+- 🤝 I'm always open to collaborating on innovative projects and participating in hackathons or programming contests!
+
+Reach me out:
+- [Linkedin](https://www.linkedin.com/in/azkakeandrezuhdi/)
+- [Website](https://keandre.framer.website/)
