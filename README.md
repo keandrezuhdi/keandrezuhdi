@@ -12,3 +12,9 @@ I'm Kean, a student majoring in Informatics at Telkom University. Currently expl
 Reach me out:
 - [Linkedin](https://www.linkedin.com/in/azkakeandrezuhdi/)
 - [Website](https://keandre.framer.website/)
+
+---
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keandrezuhdi/keandrezuhdi/main/dist/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
