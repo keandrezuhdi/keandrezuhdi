@@ -8,7 +8,7 @@ I'm Kean, a student majoring in Informatics at Telkom University. Currently expl
 - 💻 I’m currently learning on Computational Logic, Fullstack Developer, Mobile Programmer.
 - 🤝 I'm always open to collaborating on innovative projects and participating in hackathons or programming contests!
 
-You can reach me out on [Linkedin](https://www.linkedin.com/in/azkakeandrezuhdi/) or check out my [Website](https://keandre.framer.website/).
+You can reach me out on [Linkedin](https://www.linkedin.com/in/azkakeandrezuhdi/) or check out my [Personal Website](https://keandre.framer.website/).
 
 <br>
 <p align="center">
