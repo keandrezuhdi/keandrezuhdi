@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:      
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -21,10 +21,9 @@ jobs:
       - name: Generate Pac-Man SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
-          username: ${{ github.repository_owner }}
-          platform: github
-          game-theme: github-dark
-          player-style: opportunistic
+          github_user_name: keandrezuhdi
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          player_style: opportunistic
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
