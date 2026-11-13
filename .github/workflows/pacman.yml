@@ -1,4 +1,4 @@
-nname: generate arcade contribution graphs
+name: generate arcade contribution graphs
 
 on:
     schedule: 
